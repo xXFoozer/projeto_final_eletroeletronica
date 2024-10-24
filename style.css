@@ -1,0 +1,59 @@
+
+body{
+    background-color: #949494;
+    color: rgb(15, 15, 19);
+    text-align: center;
+
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+    font-size: 28px;
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+a:hover{
+    background-color: #5c5b5b;
+}
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 32px;
+}
+p{
+    font-size: 27px;
+}
+
+img{
+
+    border-radius: 10px;
+    box-shadow: 14px 6px 7px -1px rgba(0,0,0,0.61);
+}
+small{
+    font-size: 20px;
+}
+
+small a{
+    color:black;
+    font-weight: bold;
+}
+div a{
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+div .video{
+    width: 250px;
+    align-items: center;
+}
+.mapa{
+    
+    width: 250px;
+}
